@@ -118,7 +118,7 @@ $total=$houserent+$bazar+$education+$other;
                <div class="well well-sm "><span class="glyphicon glyphicon-euro"></span>&nbsp;&nbsp;House Rent:&nbsp;&nbsp;<?php echo $houserent;?></div>
             </div>
             <div class="form-group">
-               <div class="well well-sm "><span class="glyphicon glyphicon-eur"></span>&nbsp;&nbsp;Shopping:&nbsp;&nbsp;<?php echo $bazar;?></div>
+               <div class="well well-sm "><span class="glyphicon glyphicon-euro"></span>&nbsp;&nbsp;Shopping:&nbsp;&nbsp;<?php echo $bazar;?></div>
             </div>
             <div class="form-group">
                <div class="well well-sm "><span class="glyphicon glyphicon-euro"></span>&nbsp;&nbsp;Education:&nbsp;&nbsp;<?php echo $education;?></div>
